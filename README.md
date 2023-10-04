@@ -4,7 +4,7 @@ ________________________________________________________________________________
 <h2> Mac-OS Project </h2>
 
 
-- [bypass mdm ventura autoated script ](https://github.com/mexhi-byte/MDM-VENTURA)
+- [bypass mdm ventura automated script ](https://github.com/mexhi-byte/MDM-VENTURA)
   
 - [bypass mdm manualy](https://github.com/mexhi-byte/baypass-mdm-ventura)
   
