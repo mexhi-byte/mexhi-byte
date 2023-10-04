@@ -22,8 +22,10 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________
 <h2> Networking </h2>
 
-- diffrent network project
+- Diffrent Network Project
    - [networking recive and retrive over ip](https://github.com/mexhi-byte/Internet-Radio-Multicasting-multimedia-over-IP-master)
+
+- Packet Tracer and GNS3
 
 
 
