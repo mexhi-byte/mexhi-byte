@@ -15,12 +15,9 @@ ________________________________________________________________________________
 
  - [Linux mac-os theme](https://github.com/mexhi-byte/linux-macos)
  - [Matlab Live Editor Wont Work](https://github.com/mexhi-byte/matlab-not-opening)
- - [Windows update] (https://github.com/mexhi-byte/enable-disable-windows-update-regedit)
+ - [Windows update](https://github.com/mexhi-byte/enable-disable-windows-update-regedit)
  
 
-**mexhi-byte/mexhi-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
