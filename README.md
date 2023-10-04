@@ -11,20 +11,22 @@ ________________________________________________________________________________
 - [Lenovo P1 Gen2 hackintosh]( https://github.com/mexhi-byte/lenovo-p1-gen2-hackintosh)
 
 ____________________________________________________________________________________________________________________________________________
+
+<h2>Software Development Project</h2>
+
+ - Data Structures and Algorithms Practice (AlgoExpert)
+    - [Praciting DS & Algos in Python](https://github.com/mexhi-byte/Algorithms-Practice)
+ - Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)
+    - [Image Analysis Middleware](https://github.com/mexhi-byte/4chan-Image-Analysis-Middleware)
+  
+
+____________________________________________________________________________________________________________________________________________
+
 <h2>Operating System Solution</h2>
 
  - [Linux mac-os theme](https://github.com/mexhi-byte/linux-macos)
  - [Matlab Live Editor Wont Work](https://github.com/mexhi-byte/matlab-not-opening)
  - [Windows update](https://github.com/mexhi-byte/enable-disable-windows-update-regedit)
- 
+____________________________________________________________________________________________________________________________________________
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
