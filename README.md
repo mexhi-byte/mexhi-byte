@@ -17,6 +17,7 @@ ________________________________________________________________________________
  - C# (.NET Desktop Applications)
     - [Ransomware Proof of Concept (Encrypter)](https://github.com/mexhi-byte/EncrypterPOCEncrypterPOC)
     - [Ransomware Proof of Concept (Decrypter)](https://github.com/mexhi-byte/DecrypterPOC)
+    - [pacman](https://github.com/mexhi-byte/pacman--dotnet)
 
 ____________________________________________________________________________________________________________________________________________
 <h2> Mac-OS Project </h2>
