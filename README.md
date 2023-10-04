@@ -14,9 +14,9 @@ ________________________________________________________________________________
     - [PowerShell-Integrity-FIM](https://github.com/mexhi-byte/PowerShell-Integrity-FIM)
     - [Disk Wiping](https://github.com/mexhi-byte/Disk-Wiping-Utility)
     - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/mexhi-byte/Sentinel-lab)
- -C# (.NET Desktop Applications)
-    -[Ransomware Proof of Concept (Encrypter)](https://github.com/mexhi-byte/EncrypterPOCEncrypterPOC)
-    -[
+ - C# (.NET Desktop Applications)
+    - [Ransomware Proof of Concept (Encrypter)](https://github.com/mexhi-byte/EncrypterPOCEncrypterPOC)
+    - [Ransomware Proof of Concept (Decrypter)]
 
 ____________________________________________________________________________________________________________________________________________
 <h2> Mac-OS Project </h2>
