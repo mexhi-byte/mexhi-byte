@@ -5,9 +5,7 @@ ________________________________________________________________________________
 
 
 - [bypass mdm ventura automated script ](https://github.com/mexhi-byte/MDM-VENTURA)
-  
-- [bypass mdm manualy](https://github.com/mexhi-byte/baypass-mdm-ventura)
-  
+- [bypass mdm manualy](https://github.com/mexhi-byte/baypass-mdm-ventura) 
 - [Lenovo P1 Gen2 hackintosh]( https://github.com/mexhi-byte/lenovo-p1-gen2-hackintosh)
 
 ____________________________________________________________________________________________________________________________________________
@@ -21,6 +19,7 @@ ________________________________________________________________________________
  - Power Shell
     - [Active Directory Bulk User Creation](https://github.com/mexhi-byte/ad-p1)
     - [PowerShell-Integrity-FIM](https://github.com/mexhi-byte/PowerShell-Integrity-FIM)
+    - [Disk Wiping](https://github.com/mexhi-byte/Disk-Wiping-Utility)
 
 ____________________________________________________________________________________________________________________________________________
 
