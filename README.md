@@ -39,6 +39,7 @@ ________________________________________________________________________________
 - [bypass mdm ventura automated script ](https://github.com/mexhi-byte/MDM-VENTURA)
 - [bypass mdm manualy](https://github.com/mexhi-byte/baypass-mdm-ventura) 
 - [Lenovo P1 Gen2 hackintosh]( https://github.com/mexhi-byte/lenovo-p1-gen2-hackintosh)
+- [lenovo Legion 5 15IMH05 hackintosh ](https://github.com/mexhi-byte/Lenovo-Legion-5-15IMH05H-OpenCore-Ventura)
 
 ____________________________________________________________________________________________________________________________________________
 
