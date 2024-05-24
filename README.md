@@ -1,5 +1,5 @@
 ### Hi there im Mexhit Dara👋
-### Network Enginier,Programer,IT,Cyber Security
+### Network Enginier,System Administrator, Web Developer,Cyber Security
 ______________________________________________________________________________________________________________________________________________
 
 
