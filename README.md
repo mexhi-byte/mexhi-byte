@@ -1,5 +1,5 @@
 ### Hi there im Mexhit Dara👋
-### Network Enginier,System Administrator, Web Developer,Cyber Security
+### Network Enginier,System Administrator,Developer,Cyber Security
 ______________________________________________________________________________________________________________________________________________
 
 
@@ -49,5 +49,21 @@ ________________________________________________________________________________
  - [Matlab Live Editor Wont Work](https://github.com/mexhi-byte/matlab-not-opening)
  - [Windows update](https://github.com/mexhi-byte/enable-disable-windows-update-regedit)
 ____________________________________________________________________________________________________________________________________________
+
+<h2>System Administrator</h2>
+
+- [Windows active directory Domain service termianal setup ]
+- [windows server gpo setup]
+- [windows server 2019 scripts]
+- [windows failover clustering]
+- [windows server Hyper-V tools and configuration]
+
+ 
+
+
+
+
+
+______________________________________________________________________________________________________________________________________________
 
 
