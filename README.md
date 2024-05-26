@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 - Packet Tracer and GNS3
 
--  [ccna 200-301 packet tracer + 200 301 preperatin pdf]
+   -  [ccna 200-301 packet tracer + 200 301 preperatin pdf](https://github.com/mexhi-byte/ccna-200-301-packet-tracer-lab)
 
 
 
