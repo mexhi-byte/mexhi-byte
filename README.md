@@ -82,6 +82,9 @@ ________________________________________________________________________________
 - Defensive Research / Analysis
   - [Pegasus Spyware — Defensive / Forensic Analysis](https://github.com/mexhi-byte/Pegasus-Spyware-Simple-Analysis)
 
+- Thread-Detection-Simple-Home-Lab
+  - [Thread-Detection-Simple-Home-Lab-](https://github.com/mexhi-byte/Thread-Detection-Simple-Home-Lab-)
+
 ______________________________________________________________________________________________________________________________________________
 
 <h2>Hackathons / School / Misc</h2>
