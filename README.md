@@ -67,6 +67,7 @@ ________________________________________________________________________________
 <h2>System Administration</h2>
 
 - [Windows Failover Clustering](https://github.com/mexhi-byte/windows-failover-clustering)
+- [Defender Killer](https://github.com/mexhi-byte/Defender-Killer)
 - Windows AD DS setup (repo/link coming soon)
 - Windows Server GPO setup (repo/link coming soon)
 - Windows Server 2019 scripts (repo/link coming soon)
