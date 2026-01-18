@@ -7,7 +7,7 @@ ________________________________________________________________________________
 - 🛡️ Cybersecurity (Defensive / Forensics)
   - [Pegasus Spyware — Defensive / Forensic Analysis](https://github.com/mexhi-byte/Pegasus-Spyware-Simple-Analysis)
   - [Incident Response Lab](https://github.com/mexhi-byte/Incident-Response-Lab)
-  - [Blue Team Lab0(https://github.com/mexhi-byte/Blue-team-Lab)
+  - [Blue Team Lab](https://github.com/mexhi-byte/Blue-team-Lab)
 
 - 🔐 Embedded / Automotive Security (C)
   - [Secure OTA + Secure Boot (Automotive ECU)](https://github.com/mexhi-byte/secure-ota-ecu-secure-boot)
