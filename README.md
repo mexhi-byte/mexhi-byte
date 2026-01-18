@@ -51,6 +51,8 @@ ________________________________________________________________________________
 - Hackintosh Builds
   - [Lenovo P1 Gen2 Hackintosh](https://github.com/mexhi-byte/lenovo-p1-gen2-hackintosh)
   - [Lenovo Legion 5 15IMH05 Hackintosh (OpenCore Ventura)](https://github.com/mexhi-byte/Lenovo-Legion-5-15IMH05H-OpenCore-Ventura)
+  - [Hackintosh BootLoader python automated](https://github.com/mexhi-byte/hackintosh-OC-Automatic-Script-For-New-intel-CPU)
+  - [Bypass MDM in Taho MAC os system](https://github.com/mexhi-byte/MDM-VENTURA)
 
 ______________________________________________________________________________________________________________________________________________
 
