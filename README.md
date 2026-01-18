@@ -1,39 +1,40 @@
-### Hi there, I'm Mexhit Dara 👋  
+## Hi there, I'm Mexhit Dara 👋  
 ### Network Engineer • System Administrator • Developer • Cyber Security  
-______________________________________________________________________________________________________________________________________________
+
+---
 
 ## ⭐ New & Recently Updated
 
-- 🛡️ Cybersecurity (Defensive / Forensics)
-  - [Pegasus Spyware — Defensive / Forensic Analysis](https://github.com/mexhi-byte/Pegasus-Spyware-Simple-Analysis)
-  - [Incident Response Lab](https://github.com/mexhi-byte/Incident-Response-Lab)
-  - [Blue Team Lab](https://github.com/mexhi-byte/Blue-team-Lab)
+### 🛡️ Cybersecurity (Defensive / Forensics)
+- [Pegasus Spyware — Defensive / Forensic Analysis](https://github.com/mexhi-byte/Pegasus-Spyware-Simple-Analysis)
+- [Incident Response Lab](https://github.com/mexhi-byte/Incident-Response-Lab)
+- [Blue Team Lab](https://github.com/mexhi-byte/Blue-team-Lab)
 
-- 🔐 Embedded / Automotive Security (C)
-  - [Secure OTA + Secure Boot (Automotive ECU)](https://github.com/mexhi-byte/secure-ota-ecu-secure-boot)
+### 🔐 Embedded / Automotive Security (C)
+- [Secure OTA + Secure Boot (Automotive ECU)](https://github.com/mexhi-byte/secure-ota-ecu-secure-boot)
 
-- 🌐 Web / Templates
-  - [TanStack Chat Template](https://github.com/mexhi-byte/tanstack-template)
+### 🌐 Web / Templates
+- [TanStack Chat Template](https://github.com/mexhi-byte/tanstack-template)
 
-______________________________________________________________________________________________________________________________________________
+---
 
-<h2>Software Development Projects</h2>
+## 💻 Software Development Projects
 
-- Data Structures and Algorithms Practice
-  - [Practicing DS & Algos in Python](https://github.com/mexhi-byte/Algorithms-Practice)
+### 📚 Data Structures and Algorithms Practice
+- [Practicing DS & Algos in Python](https://github.com/mexhi-byte/Algorithms-Practice)
 
-- Full Stack Web App (React, NodeJS, Azure, ML Components)
-  - [Image Analysis Middleware](https://github.com/mexhi-byte/4chan-Image-Analysis-Middleware)
+### 🧩 Full Stack Web App (React, NodeJS, Azure, ML Components)
+- [Image Analysis Middleware](https://github.com/mexhi-byte/4chan-Image-Analysis-Middleware)
 
-- PowerShell
-  - [Active Directory Bulk User Creation](https://github.com/mexhi-byte/ad-p1)
-  - [PowerShell Integrity Monitoring (FIM)](https://github.com/mexhi-byte/PowerShell-Integrity-FIM)
-  - [Disk Wiping Utility](https://github.com/mexhi-byte/Disk-Wiping-Utility)
-  - [Windows EventLog: Failed RDP Logins → GeoData Conversion](https://github.com/mexhi-byte/Sentinel-lab)
+### 🛠️ PowerShell
+- [Active Directory Bulk User Creation](https://github.com/mexhi-byte/ad-p1)
+- [PowerShell Integrity Monitoring (FIM)](https://github.com/mexhi-byte/PowerShell-Integrity-FIM)
+- [Disk Wiping Utility](https://github.com/mexhi-byte/Disk-Wiping-Utility)
+- [Windows EventLog: Failed RDP Logins → GeoData Conversion](https://github.com/mexhi-byte/Sentinel-lab)
 
-- C# (.NET Desktop Applications)
-  - [Pacman (.NET)](https://github.com/mexhi-byte/pacman--dotnet)
-  - (Some security research PoCs are not linked here.)
+### 🧱 C# (.NET Desktop Applications)
+- [Pacman (.NET)](https://github.com/mexhi-byte/pacman--dotnet)
+- *(Some security research PoCs are not linked here.)*
 
 ______________________________________________________________________________________________________________________________________________
 
